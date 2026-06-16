@@ -1,2 +1,7 @@
-# Netflix_datasetproject
-Analysis of 10,000+ Netflix movies and TV shows using Python. This project includes data cleaning, exploratory data analysis (EDA), and visualizations to uncover trends in genres, popularity, votes, ratings, and release years.
+## Key Findings
+
+- Netflix content grew rapidly between 2015 and 2020.
+- Movies account for approximately 70% of total content.
+- Drama and Comedy are the most common genres.
+- The United States contributes the largest share of content.
+- TV Shows have increased significantly in recent years.
