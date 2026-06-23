@@ -1,3 +1,8 @@
+## Dataset
+Netflix Movies and TV Shows Dataset
+The dataset contains information about titles, genres, popularity scores, 
+release years, and other content-related attributes used for analysis.
+
 ## Key Features
 - Data Cleaning
 - Exploratory Data Analysis (EDA)
@@ -26,6 +31,17 @@
 - Analyze successful Action and Adventure titles to identify audience preferences.
 - Study low-performing content to improve future acquisition decisions.
 - Use genre popularity insights to guide content recommendations.
+- 
+
+## Project Structure
+
+Netflix-Content-Analysis/
+├── Netflix_datasetproject.ipynb
+
+├── README.md
+
+├── requirements.txt
+
 
 ## Installation
 pip install -r requirements.txt
