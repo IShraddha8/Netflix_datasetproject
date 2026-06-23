@@ -37,10 +37,12 @@ release years, and other content-related attributes used for analysis.
 
 Netflix-Content-Analysis/
 ├── Netflix_datasetproject.ipynb
-
 ├── README.md
-
 ├── requirements.txt
+├── Genre analysis.png
+├── Release Date.png
+└── Votes Distribution.png
+
 
 
 ## Installation
